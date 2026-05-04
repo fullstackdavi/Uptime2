@@ -1,0 +1,8 @@
+{
+  "name": "FaceAuth ID",
+  "description": "Sistema de reconhecimento facial inteligente para gestão de acesso e identificação em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
